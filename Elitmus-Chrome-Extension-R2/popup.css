@@ -1,0 +1,46 @@
+.container {
+    width: 280px;
+    color: #314d3e;
+}
+
+.title {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px;
+}
+
+.button {
+   
+   
+    color: white;
+    padding: 15px 32px;
+    margin: .5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: rgb(251, 156, 2);
+}
+.button:hover{
+cursor: grab;
+border: 3px solid #1389f7;
+color:black;
+background-color: aliceblue;
+
+}
+
+.check-button{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 15px 32px;
+    margin: .5%;
+    border: 2px solid rgb(26, 217, 13);
+    border-radius: 5px;
+}
+.check-button:hover{
+background-color:  rgb(26, 217, 13);
+cursor: grab;
+border: 2px solid rgb(15, 85, 10);
+
+}
